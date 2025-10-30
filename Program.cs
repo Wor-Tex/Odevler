@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+        // Ömer Asaf BAYBURT 253908067
+            
             Console.Write("N girin: ");
             int N = Convert.ToInt32(Console.ReadLine());
 
@@ -151,4 +153,5 @@
             }
         }
     }
+
 }
